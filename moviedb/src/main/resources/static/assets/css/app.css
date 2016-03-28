@@ -1,0 +1,35 @@
+#body {
+    padding-top: 10px;
+}
+
+.navbar {
+    background-color: white;
+    border: 0;
+    margin-bottom: 20px;
+}
+
+.navbar .container {
+    background-color: #ff7f00;
+    background-image: -moz-linear-gradient(top, #ff7f00, #ff7f00);
+    background-image: -ms-linear-gradient(top, #ff7f00, #ff7f00);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ff7f00), to(#ff7f00));
+    background-image: -webkit-linear-gradient(top, #ff7f00, #ff7f00);
+    background-image: -o-linear-gradient(top, #ff7f00, #ff7f00);
+    background-image: linear-gradient(top, #ff7f00, #ff7f00);
+}
+
+.navbar .navbar-brand {
+    color: white;
+}
+
+.navbar .navbar-brand:hover {
+    color: white;
+}
+
+.btn {
+    background-color: white;
+}
+
+.icon-white {
+    color: white;
+}

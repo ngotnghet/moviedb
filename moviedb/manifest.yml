@@ -1,0 +1,5 @@
+---
+ name: movie-db
+ memory: 512M
+ host: movie-db
+ path: target/moviedb-0.0.1-SNAPSHOT.war
